@@ -1,1 +1,6 @@
 how do you fix a relationship with a git? commitment.
+<<<<<<< HEAD
+=======
+
+test again?
+>>>>>>> test_branch
